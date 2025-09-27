@@ -180,9 +180,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
+## ON
+![WhatsApp Image 2025-09-27 at 09 02 47_54946314](https://github.com/user-attachments/assets/8aeb5682-36c8-4165-9284-85b828a7febc)
 
-![WhatsApp Image 2025-09-27 at 08 54 08_74d415bf](https://github.com/user-attachments/assets/9006d4ae-9570-42bb-b751-e5c7a584e3c9)
-![WhatsApp Image 2025-09-27 at 08 53 46_7c8e7150](https://github.com/user-attachments/assets/94b3fda9-098a-44a7-be7f-a3b8b2c56032)
+## OFF
+![WhatsApp Image 2025-09-27 at 09 03 23_94cfe618](https://github.com/user-attachments/assets/a1ac203c-7cf0-4fc6-aec3-b1a6951d7229)
 
 
 ## Result
