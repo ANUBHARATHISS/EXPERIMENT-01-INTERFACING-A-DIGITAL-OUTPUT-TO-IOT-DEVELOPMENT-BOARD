@@ -180,10 +180,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
-## ON
+## RELAY ON
 ![WhatsApp Image 2025-09-27 at 09 02 47_54946314](https://github.com/user-attachments/assets/8aeb5682-36c8-4165-9284-85b828a7febc)
 
-## OFF
+## RELAY OFF
 ![WhatsApp Image 2025-09-27 at 09 03 23_94cfe618](https://github.com/user-attachments/assets/a1ac203c-7cf0-4fc6-aec3-b1a6951d7229)
 
 
